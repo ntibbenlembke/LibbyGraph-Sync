@@ -1,7 +1,10 @@
+import UploadFile from "../components/UploadFile";
+
 export default function HomePage() {
     return (
-        <div>
+        <div >
             HomePage
+            <UploadFile />
         </div>
     )
 }
