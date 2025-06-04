@@ -817,4 +817,4 @@ pygments = "*"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.9"
-content-hash = "95a6b0c48344618946ed5a59d5a182e3a51a4433d98cd65b841ae9daaad1d463"
+content-hash = "4a0f4723b161e783423e9d105bb695585a7c187233fe5357c4d7996e0769aa6b"
